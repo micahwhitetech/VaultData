@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{05E13EF2-A66E-4916-8160-05A8CAC09796}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-24T20:34:13.3956057Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow",
+    "commandType": "Item",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
+  }
+]
