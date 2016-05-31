@@ -99,6 +99,23 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
+    "sourceControlRevisionId": "1fc734d659b6e5318e5302610ad49047ea79022d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{44428794-05A4-4BE6-90D6-7D0BF128D17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T14:30:41.0341072Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Rebuild Suggested Tests Index",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
+    "commandType": "Item",
+    "template": "Schedule",
     "sourceControlRevisionId": null
   }
 ]
