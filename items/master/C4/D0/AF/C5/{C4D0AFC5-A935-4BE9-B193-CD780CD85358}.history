@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C4D0AFC5-A935-4BE9-B193-CD780CD85358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:54:41.7965792Z",
+    "label": "Installed from package - 7",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "without links",
+    "itemPath": "/sitecore/content/without links",
+    "commandType": "Item",
+    "template": "Broken Links",
+    "sourceControlRevisionId": null
+  }
+]
