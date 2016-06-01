@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8372C3E2-9A2C-41EA-9FB6-8F307EFDE082}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:54:41.4574907Z",
+    "label": "Installed from package - 7",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Broken Links",
+    "itemPath": "/sitecore/templates/Testing/Broken Links",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
