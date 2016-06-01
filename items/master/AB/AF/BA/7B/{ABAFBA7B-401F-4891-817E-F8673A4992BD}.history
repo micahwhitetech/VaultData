@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{ABAFBA7B-401F-4891-817E-F8673A4992BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:54:41.6025987Z",
+    "label": "Installed from package - 7",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Cat Video",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Cat Video",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
