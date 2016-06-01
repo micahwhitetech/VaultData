@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D617D414-4CBA-45A4-875B-98E30A405E07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:54:41.6521790Z",
+    "label": "Installed from package - 7",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Random Youtube Link",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Random Youtube Link",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
