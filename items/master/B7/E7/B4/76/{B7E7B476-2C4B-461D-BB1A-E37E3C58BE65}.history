@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B7E7B476-2C4B-461D-BB1A-E37E3C58BE65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:54:41.5395522Z",
+    "label": "Installed from package - 7",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Dog Video",
+    "itemPath": "/sitecore/templates/Testing/Broken Links/Info/Dog Video",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
