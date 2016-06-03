@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/without links",
     "commandType": "Item",
     "template": "Broken Links",
+    "sourceControlRevisionId": "ffb26f4e4bc013d75ac996850d7e16e56007452a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C4D0AFC5-A935-4BE9-B193-CD780CD85358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-03T16:59:45.1909434Z",
+    "label": "Installed from package - 7",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "without links",
+    "itemPath": "/sitecore/content/without links",
+    "commandType": "Item",
+    "template": "Broken Links",
     "sourceControlRevisionId": null
   }
 ]
