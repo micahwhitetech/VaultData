@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "e18d79fbd5d16f3ae7076fcb28a7869442ab6f20"
+    "sourceControlRevisionId": "e18d79fbd5d16f3ae7076fcb28a7869442ab6f20",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "9b312745b53d038c21c5f252bb38f197b544323d"
+    "sourceControlRevisionId": "9b312745b53d038c21c5f252bb38f197b544323d",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "c6ca3698078961b41f5276347574b68876bdb81c"
+    "sourceControlRevisionId": "c6ca3698078961b41f5276347574b68876bdb81c",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "ce7f2f501f00cf638f3fdf1e6ca96cee34880978"
+    "sourceControlRevisionId": "ce7f2f501f00cf638f3fdf1e6ca96cee34880978",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "e4b115c51c66d7f6db9075c9bbb23520373ef10b"
+    "sourceControlRevisionId": "e4b115c51c66d7f6db9075c9bbb23520373ef10b",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "cc85443df7ad50afed2471439e25fc15ca059dd4"
+    "sourceControlRevisionId": "cc85443df7ad50afed2471439e25fc15ca059dd4",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "c281dfea929884ec35e680a574f9e91f90c911cd"
+    "sourceControlRevisionId": "c281dfea929884ec35e680a574f9e91f90c911cd",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "b8a2d27cef19140efa8e0b2255b464acab9baffc"
+    "sourceControlRevisionId": "b8a2d27cef19140efa8e0b2255b464acab9baffc",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "e071c8e9a8f059c5907fc39d4ba659638ce334d6"
+    "sourceControlRevisionId": "e071c8e9a8f059c5907fc39d4ba659638ce334d6",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "26f2c6c62ba623a65dd88064d40f3a167719b300"
+    "sourceControlRevisionId": "26f2c6c62ba623a65dd88064d40f3a167719b300",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -184,7 +204,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "866173704f02cf092e10828fbc3cc452978fb44f"
+    "sourceControlRevisionId": "866173704f02cf092e10828fbc3cc452978fb44f",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -201,7 +223,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "1c9159485f05e9a86faddc6be3dcd768ba3a4ea3"
+    "sourceControlRevisionId": "1c9159485f05e9a86faddc6be3dcd768ba3a4ea3",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -218,7 +242,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "84c86cac0cf0e8dfe4d1b82459e14a67df4cffad"
+    "sourceControlRevisionId": "84c86cac0cf0e8dfe4d1b82459e14a67df4cffad",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -235,7 +261,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "355e9917a3a406c9601d8cb85345d8218d98c8ce"
+    "sourceControlRevisionId": "355e9917a3a406c9601d8cb85345d8218d98c8ce",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -252,6 +280,27 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "00cac94f19c67e29c19494a858461c80208678f0",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C7533E65-A1D6-4F99-9F12-0AB157299D80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-10T18:28:25.4742623Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Calculate Statistical Relevancy",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
+    "commandType": "Item",
+    "template": "Schedule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
   }
 ]
