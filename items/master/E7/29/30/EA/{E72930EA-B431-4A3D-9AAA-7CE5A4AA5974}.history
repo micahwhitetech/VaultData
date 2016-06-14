@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{E72930EA-B431-4A3D-9AAA-7CE5A4AA5974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:58:47.6110535Z",
+    "label": "Deployed from MT6",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "o",
+    "itemPath": "/sitecore/templates/Testing/MT4/d/o",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  }
+]
