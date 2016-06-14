@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C438BD09-C1C3-4DBD-B35D-0D6A9D9573F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T21:01:38.1221949Z",
+    "label": "Deployed from MT6",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "folder 3",
+    "itemPath": "/sitecore/content/folder 1/folder 2/folder 3",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  }
+]
