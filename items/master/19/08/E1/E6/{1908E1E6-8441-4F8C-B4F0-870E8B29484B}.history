@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{1908E1E6-8441-4F8C-B4F0-870E8B29484B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:47:51.9522142Z",
+    "label": "Deployed from MT3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "MT3",
+    "itemPath": "/sitecore/templates/Testing/MT3",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  }
+]
