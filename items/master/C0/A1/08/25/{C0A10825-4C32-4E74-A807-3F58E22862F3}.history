@@ -14,7 +14,26 @@
     "itemPath": "/sitecore/content/New Missing Template",
     "commandType": "Item",
     "template": "Missing Template",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9457d378debbc937c35ef29296035abf86041bab",
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{C0A10825-4C32-4E74-A807-3F58E22862F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-14T20:03:45.3548908Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Missing Template",
+    "itemPath": "/sitecore/content/New Missing Template",
+    "commandType": "Item",
+    "template": "Missing Template",
+    "sourceControlRevisionId": "9457d378debbc937c35ef29296035abf86041bab",
     "sitecoreVersion": "8.0.160115",
     "vaultVersion": "1.0.140"
   }
