@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{581F20F8-A842-422A-A09A-A7CD9F138250}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T19:24:42.5986689Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "path 1",
+    "itemPath": "/sitecore/content/Home/path 1",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  }
+]
