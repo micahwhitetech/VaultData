@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D2F71DB9-C916-4181-AC92-E1F28FD5814D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T18:41:36.1210710Z",
+    "label": "Deployed from 1",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Same name item",
+    "itemPath": "/sitecore/content/Same name item",
+    "commandType": "Item",
+    "template": "Same Name",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  }
+]
