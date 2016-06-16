@@ -33,7 +33,26 @@
     "itemPath": "/sitecore/templates/Testing/Same Name/eee/bbb",
     "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "43f56c579f3c613092ca68f67cc624ce73b50db8",
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{F9174C08-29E2-439F-AA5E-36D745E8C75D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T18:39:19.4511147Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "bbb",
+    "itemPath": "/sitecore/templates/Testing/Same Name/eee/bbb",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "43f56c579f3c613092ca68f67cc624ce73b50db8",
     "sitecoreVersion": "8.0.160115",
     "vaultVersion": "1.0.140"
   }
