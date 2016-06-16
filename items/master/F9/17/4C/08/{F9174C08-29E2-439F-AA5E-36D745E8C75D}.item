@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {F9174C08-29E2-439F-AA5E-36D745E8C75D}
+database: master
+path: /sitecore/templates/Testing/Same Name/eee/bbb
+parent: {1128A0BA-DABF-4F2C-99D1-B60F9350BF07}
+name: bbb
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
+----version----
+language: en
+version: 1
+revision: 330886fc-4d11-4160-ad59-1a9c49e721d4
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160616T183849Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+330886fc-4d11-4160-ad59-1a9c49e721d4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160616T183849Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
