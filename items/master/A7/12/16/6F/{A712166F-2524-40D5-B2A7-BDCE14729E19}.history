@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{A712166F-2524-40D5-B2A7-BDCE14729E19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T18:41:36.0425127Z",
+    "label": "Deployed from 1",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "eee",
+    "itemPath": "/sitecore/templates/Testing/Same Name/eee",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.160115",
+    "vaultVersion": "1.0.140"
+  }
+]
