@@ -47,7 +47,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 6cb5e970-c4a8-4f41-a7a2-75b49309bc8e
+revision: ab8449ca-ca2e-4df4-affc-1a4998ecb775
 
 ----field----
 field: {CEEEE187-0C8D-4374-8BF6-EE95B2580AB6}
@@ -90,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6cb5e970-c4a8-4f41-a7a2-75b49309bc8e
+ab8449ca-ca2e-4df4-affc-1a4998ecb775
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160620T210018Z
+20160621T180410Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -105,6 +105,13 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FA1AD9A4-00A0-4F51-8BBA-EAF3CEDF0852}
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
