@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "Saved",
-    "database": "core",
-    "itemId": "{05E13EF2-A66E-4916-8160-05A8CAC09796}",
-    "version": 2,
-    "language": "en",
-    "timestamp": "2016-05-24T20:34:13.3956057Z",
-    "label": "Saved",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Workflow",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow",
-    "commandType": "Item",
-    "template": "ColumnField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"Saved","database":"core","itemId":"{05E13EF2-A66E-4916-8160-05A8CAC09796}","version":2,"language":"en","timestamp":"2016-05-24T20:34:13.3956057Z","label":"Saved","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Workflow","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow","template":"ColumnField","sourceControlRevisionId":"ee8e3aa575fd845c4e7a7cfe0d0a270f13d49bee","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"VersionRemoved","database":"core","itemId":"{05E13EF2-A66E-4916-8160-05A8CAC09796}","version":2,"language":"en","timestamp":"2016-07-07T21:29:04.1817035Z","label":"Version 2 Removed","workflowState":"","workflowStateName":"","activeUser":"sitecore\\admin","itemName":"Workflow","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow","template":"ColumnField","sourceControlRevisionId":null,"sitecoreVersion":"8.0.160115","vaultVersion":"1.0.144","deploymentId":null}]
