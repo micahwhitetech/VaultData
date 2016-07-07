@@ -1,0 +1,107 @@
+----item----
+version: 1
+id: {9D750C1E-C6B6-41E4-91EF-73F1C8E4D2D2}
+database: master
+path: /sitecore/content/Publishing Test
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: Publishing Test
+master: {00000000-0000-0000-0000-000000000000}
+template: {A1E2D8B8-EE84-449C-AFC4-75E93F47B3C0}
+templatekey: All Fields
+
+----version----
+language: en
+version: 1
+revision: 3af7638d-0a2a-4bc5-bcab-2aa84206de56
+
+----field----
+field: {2961D3C1-59AF-4020-B25D-F8CDF86EAE9E}
+name: Single Line Text Field
+key: single line text field
+content-length: 2
+
+df
+----field----
+field: {A8D5E163-06D9-442B-A68E-2BAFBE686BAE}
+name: Multi Line Text Field
+key: multi line text field
+content-length: 2
+
+sd
+----field----
+field: {F47C99EB-9C5B-45E4-A399-70A00B0714C8}
+name: Number Field
+key: number field
+content-length: 1
+
+1
+----field----
+field: {EEA9522B-9552-4555-8A59-4DAF704C15AF}
+name: Rich Text Field
+key: rich text field
+content-length: 3
+
+asd
+----field----
+field: {B757DF9B-55B2-47C1-9959-407C6718E089}
+name: Date Field
+key: date field
+content-length: 16
+
+20160712T040000Z
+----field----
+field: {A79D303C-EEDC-4413-A074-1C7C9B8C1C1F}
+name: DateTime Field
+key: datetime field
+content-length: 16
+
+20160712T063000Z
+----field----
+field: {9B07900E-E4CF-40AF-9861-1273F9807B63}
+name: Integer Field
+key: integer field
+content-length: 1
+
+4
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160707T190709Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3af7638d-0a2a-4bc5-bcab-2aa84206de56
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160707T213038Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
