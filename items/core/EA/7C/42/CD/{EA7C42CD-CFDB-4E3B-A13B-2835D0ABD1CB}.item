@@ -9,10 +9,24 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 33
+
+Reports Open Selected Item button
+----field----
+field: {5E6442EC-78CE-4D20-8673-3670222E404D}
+name: Package author
+key: package author
+content-length: 5
+
+Micah
 ----version----
 language: en
 version: 1
-revision: fc8d0d78-b615-444a-a1a6-108c7aa534fe
+revision: ab7713d1-6d4b-4ba8-b2f5-4c52e129b948
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -41,7 +55,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fc8d0d78-b615-444a-a1a6-108c7aa534fe
+ab7713d1-6d4b-4ba8-b2f5-4c52e129b948
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
